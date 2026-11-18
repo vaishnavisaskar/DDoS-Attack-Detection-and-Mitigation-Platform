@@ -332,8 +332,8 @@ This project is developed strictly for educational and defensive cybersecurity r
 
 Cybersecurity Engineer | Network Security Enthusiast
 
-- GitHub: [ShindePankaj26](https://github.com/ShindePankaj26)
-- LinkedIn: [Pankaj Shinde](https://www.linkedin.com/in/pankaj-prakash-shinde-421889352/)
+- GitHub: [vaishnavisaskar](https://github.com/vaishnavisaskar)
+- LinkedIn: [vaishnavisaskar](https://www.linkedin.com/in/vaishnavi-saskar-857b27255/)
 
 ## 📄 License
 
