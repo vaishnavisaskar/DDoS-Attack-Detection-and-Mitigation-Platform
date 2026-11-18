@@ -183,8 +183,7 @@ DDoS-Detection-and-Mitigation/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/ShindePankaj26/DDoS-Detection-and-Mitigation.git
-```
+git clone https://github.com/vaishnavisaskar/DDoS-Attack-Detection-and-Mitigation-Platform
 
 ```bash
 cd DDoS-Detection-and-Mitigation
